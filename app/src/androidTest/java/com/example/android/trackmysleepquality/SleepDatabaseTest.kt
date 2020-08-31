@@ -33,7 +33,7 @@
 ///**
 // * This is not meant to be a full set of tests. For simplicity, most of your samples do not
 // * include tests. However, when building the Room, it is helpful to make sure it works before
-// * adding the UI.
+// * adding the UI.0
 // */
 //
 //@RunWith(AndroidJUnit4::class)
